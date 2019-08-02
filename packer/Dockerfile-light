@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.10
 MAINTAINER "The Packer Team <packer@hashicorp.com>"
 
 ENV PACKER_VERSION=1.4.2
