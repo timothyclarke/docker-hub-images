@@ -8,6 +8,7 @@ Releases are tagged from the `light` version.
 ## Versions
 * a=alpine version
 * p=packer version
+
 so light-a3.10-p1.4.2 is the light version of packer 1.4.2 on alpine 3.10
 
 ### Usage
